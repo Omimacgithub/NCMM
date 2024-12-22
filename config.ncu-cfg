@@ -1,0 +1,4 @@
+[Launch-and-attach]
+-o = MMprofile
+--apply-rules = yes
+--set = full
